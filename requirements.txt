@@ -6,3 +6,6 @@ pypdf
 bs4
 wikipedia
 langchain_text_splitters
+langchain_openai
+chromadb
+langchain_huggingface
